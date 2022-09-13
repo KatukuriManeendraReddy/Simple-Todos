@@ -1,0 +1,16 @@
+.bg-container {
+  background-color: #ffc2a0;
+  padding: 30px;
+}
+.inner-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+  width: 80vw;
+}
+.heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+}

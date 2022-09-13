@@ -1,0 +1,12 @@
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.button {
+  border-color: #ff0b37;
+  color: #ff0b37;
+  background-color: transparent;
+  height: 36px;
+  width: 100px;
+}
